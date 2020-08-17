@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-    <img src="_demo.gif">
+    <img height="640" src="_demo.gif">
 </p>
 
 # 🔖 Sobre
