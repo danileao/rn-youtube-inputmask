@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="demo.gif">
+    <img src="_demo.gif">
 </p>
 
 # 🔖 Sobre
